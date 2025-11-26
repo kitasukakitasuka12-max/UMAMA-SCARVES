@@ -22,7 +22,9 @@ const ProductInfo: React.FC = () => {
       {/* Features */}
       <div className="bg-gray-50 p-6 rounded-xl border border-gray-100">
         <p className="text-gray-700 mb-4 leading-relaxed">
-          Harga terjangkau dengan kualitas yang premium. Memiliki material kerudung yang lembut dan sangat nyaman untuk digunakan sehari-hari. Cocok sekali untuk kamu jadikan sebagai hadiah untuk orang terkasih.
+          ✨ Umamascarves Sedang Berbagi Hadiah! ✨
+Saat ini Umamascarves membagikan hijab Hijab Box Motif Digital Scarves V.15 GRATIS kepada 100 member baru.
+Jangan lewatkan kesempatan ini — dapatkan sekarang juga!
         </p>
         
         <div className="space-y-3 mt-6">

@@ -53,7 +53,7 @@ Jangan lewatkan kesempatan ini — dapatkan sekarang juga!
           rel="noopener noreferrer"
           className="group flex items-center justify-center gap-3 w-full bg-[#25D366] hover:bg-[#128C7E] text-white font-bold text-lg py-4 px-8 rounded-full shadow-lg hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1"
         >
-          <MessageCircle size={28} className="accent-sky-600" />
+          <MessageCircle size={28} className="fill-white" />
           <span>Join Sekarang</span>
         </a>
         <p className="text-center text-xs text-gray-400 mt-3">

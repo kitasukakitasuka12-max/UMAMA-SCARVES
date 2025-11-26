@@ -41,7 +41,7 @@ Jangan lewatkan kesempatan ini — dapatkan sekarang juga!
       {/* Instructions */}
       <div className="border-l-4 border-gray-900 pl-4 py-1">
         <p className="italic text-gray-600">
-          "Caranya sangat mudah untuk mendapatkan hijab Umamascarves, cukup ikuti arahan dan membaca setiap penjelasan yang diberikan."
+          Caranya sangat mudah untuk mendapatkan hijab Umamascarves, cukup ikuti arahan dan membaca setiap penjelasan yang diberikan.
         </p>
       </div>
 
